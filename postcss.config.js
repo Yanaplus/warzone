@@ -4,6 +4,7 @@ module.exports = {
       browsers: ['last 2 versions'],
     }),
     require('postcss-nesting'),
-    require('postcss-import')
+    require('postcss-import'),
+    require('postcss-custom-media'),
   ],
 };

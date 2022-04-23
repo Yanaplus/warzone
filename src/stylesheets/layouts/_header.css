@@ -1,0 +1,16 @@
+:root {
+    --background: #2c3e50;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: var(--background);
+
+    @media (--tablet) {
+        min-height: 60vh;
+    }
+}
