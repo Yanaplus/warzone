@@ -8,12 +8,13 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "postcss-calc": "^8.2.4",
     "postcss-custom-media": "^8.0.0",
+    "postcss-nested": "^5.0.6",
     "vite": "^2.9.5"
   },
   "dependencies": {
     "autoprefixer": "^10.4.4",
-    "postcss-import": "^14.1.0",
-    "postcss-nesting": "^10.1.4"
+    "postcss-import": "^14.1.0"
   }
 }

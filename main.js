@@ -1,4 +1,3 @@
-import App from './src/scripts/App';
-import './style.css';
+import App from './src/App';
 
 App();

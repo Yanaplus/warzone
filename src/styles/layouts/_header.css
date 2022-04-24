@@ -10,7 +10,13 @@
     
     background-color: var(--background);
 
+    min-height: 25vh;
+
     @media (--tablet) {
-        min-height: 60vh;
+        min-height: 40vh;
+    }
+
+    @media (--desktop) {
+        min-height: 50vh;
     }
 }
