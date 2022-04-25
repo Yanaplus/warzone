@@ -1,0 +1,12 @@
+body {
+    background: var(--dark-color);
+}
+
+.invert {
+    color: #fff;
+}
+
+.section {
+    background-color: #fff;
+    height: 400px;
+}

@@ -8,6 +8,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "install": "^0.13.0",
+    "npm": "^8.7.0",
     "postcss-calc": "^8.2.4",
     "postcss-custom-media": "^8.0.0",
     "postcss-nested": "^5.0.6",
